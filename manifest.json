@@ -1,0 +1,15 @@
+{
+  "name": "Svaneti Tracker",
+  "short_name": "Svaneti",
+  "description": "Live day-by-day map of a ten-day trip from Manchester to Ushguli.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B1116",
+  "theme_color": "#111C24",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
